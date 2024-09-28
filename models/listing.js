@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+const mongoose = require("mongoos");
 const Schema = mongoose.Schema;
 const Review = require("./review.js");
 
